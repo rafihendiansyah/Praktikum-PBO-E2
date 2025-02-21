@@ -2,7 +2,7 @@
  * Deskripsi : Berisi atribut dan method dalam class Titik
  * Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
  * Tanggal   : 20/02/2025
- */
+ */ 
 
  public class MTitik {
     public static void main(String[] args){
