@@ -67,10 +67,5 @@
         Titik T_refleksi2 = T4.getRefleksiY();
         System.out.println("T4 setelah refleksi terhadap sumbu Y:");
         T_refleksi2.printTitik();
-
-
-
-
-
     }
  }
