@@ -1,4 +1,4 @@
-/* Nama File : Asersi1.java
+/* Nama File : Asersi2.java
   Deskripsi : Program untuk demo asersi, yang akan menolak input jari-jari lingkran yang bernilai nol
   Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
   Tanggal   : 09/03/2025

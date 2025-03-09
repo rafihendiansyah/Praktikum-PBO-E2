@@ -1,4 +1,4 @@
-/* Nama File : Asersi1.java
+/* Nama File : AngkaSial.java
   Deskripsi : Program penggunaan exception buatan sendiri , pengenalan klausa 'throw' dan 'throws'
   Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
   Tanggal   : 09/03/2025

@@ -1,4 +1,4 @@
-/* Nama File : Asersi1.java
+/* Nama File : ExceptionOnArray.java
   Deskripsi : Program penggunaan eksepsi menggunakan class library Java
   Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
   Tanggal   : 09/03/2025
