@@ -2,7 +2,7 @@
   Deskripsi : Berisi atribut dan method dalam class BangunDatar
   Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
   Tanggal   : 16/03/2025
-*/
+*/ 
 
 public class BangunDatar {
     protected  int jmlSisi;

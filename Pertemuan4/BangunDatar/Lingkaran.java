@@ -2,7 +2,7 @@
   Deskripsi : Berisi class Lingkaran yang merupakan subclass dari BangunDatar
   Pembuat   : Rafi Althaf Hendiansyah / 24060123140158
   Tanggal   : 16/03/2025
-*/
+*/ 
 
 public class Lingkaran extends BangunDatar{
     private double jari;
